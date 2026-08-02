@@ -1,0 +1,10 @@
+{
+  "name": "codex-pictures",
+  "description": "Every still image comes off the flat Codex subscription, not the metered fal wallet. Bundles the verified renderer, the art-direction standard, and the /image command.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sarah Scarano",
+    "email": "sarah@modernmustardseed.com"
+  },
+  "keywords": ["image", "codex", "art-direction", "photography", "fal"]
+}

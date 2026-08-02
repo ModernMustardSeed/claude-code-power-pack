@@ -1,0 +1,17 @@
+{
+  "name": "modern-mustard-seed",
+  "owner": {
+    "name": "Sarah Scarano",
+    "email": "sarah@modernmustardseed.com"
+  },
+  "metadata": {
+    "description": "Modern Mustard Seed's own Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "codex-pictures",
+      "source": "./plugins/codex-pictures",
+      "description": "Generate every image on the flat Codex subscription instead of the metered fal wallet. Ships the verified codex-image renderer, the art-direction standard, and the /image command."
+    }
+  ]
+}
